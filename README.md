@@ -1,5 +1,4 @@
 #Alfred Workflow ([Download v1](https://raw.github.com/tjacobdesign/alfred-redmine-workflow/master/Redmine.alfredworkflow))
-=======================
 
 A really basic Redmine workflow for Alfred.
 
